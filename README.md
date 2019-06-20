@@ -29,10 +29,6 @@ Python class for the NI Quicksyn FSW-0020 Synthesizer
 <h2>Hardware</h2>
 <!-- /wp:heading -->
 
-<!-- wp:image {"align":"center","id":23316,"width":297,"height":396} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://electricatoms.files.wordpress.com/2019/06/img_0589.jpeg" alt="" class="wp-image-23316" width="297" height="396"/><figcaption>Main ports connected for our testing. Note the banana cables and BNC connecting to the port box.</figcaption></figure></div>
-<!-- /wp:image -->
-
 <!-- wp:heading {"level":4} -->
 <h4>Ports, Power, and Cooling</h4>
 <!-- /wp:heading -->
@@ -44,10 +40,6 @@ Python class for the NI Quicksyn FSW-0020 Synthesizer
 <!-- wp:paragraph -->
 <p>Use the port box to connect and disconnect any cables, and avoid disconnecting the SPI plug to prevent damage. Also, when unplugging, be sure to turn the output off, then unplug/turn off the power supply, then finally unplug the USB and BNC output cable. This order prevents voltage reflection, which could damage the output.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"right","id":23314,"width":269,"height":202} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://electricatoms.files.wordpress.com/2019/06/img_0587.jpeg" alt="" class="wp-image-23314" width="269" height="202"/><figcaption>Power supply for the device, in operation.</figcaption></figure></div>
-<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>This device requires +12 V for power. It nominally consumes a maximum of 24 W when initially powered on, and 20 W during normal operation. We observe this device consume about 15 W and operate as expected.</p>
