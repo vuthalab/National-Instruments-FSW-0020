@@ -62,7 +62,7 @@ Python class for the NI Quicksyn FSW-0020 Synthesizer
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>To build a new SPI/power connector, use a DF1B-20DS-2.5RC housing connector and DF1B-2022 SC pins, both available from DigiKey. Be sure to buy at least two of the connectors and forty of the pins, as they are somewhat hard to work with..</p>
+<p>To build a new SPI/power connector, use a DF1B-20DS-2.5RC housing connector and DF1B-2022 SC pins, both available from DigiKey. Be sure to buy at least two of the connectors and forty of the pins, as they are somewhat hard to work with.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
